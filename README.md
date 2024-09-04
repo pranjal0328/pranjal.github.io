@@ -1,5 +1,10 @@
 # pranjal.github.io
 ## Lab Questions and Responses
-### Q3: 3.	Introduce ONE selected “Dataset” from the [awesome-datascience] GitHub with its URL and describe its potential applications and values.
+### Q3: Introduce ONE selected “Dataset” from the [awesome-datascience] GitHub with its URL and describe its potential applications and values.
 →  One compelling datasets available on the AWS database from the list in “awesome-datascience” is the Human Sleep Project (HSP). This dataset is a collection of polysomnography (PSG) recordings, from approximately 15,000 patients at Massachusetts General Hospital, and growing. This dataset is essential to study sleep physiology and related disorders. This dataset can have many applications and values, one potential application being improving sleep disorder diagnosis, like apnea, insomnia, and more. Researchers can leverage this data to train deep learning models which can detect anomalies with great accuracy than traditional methods. Another application can be developing AI-driven sleep reports. These reports can be developed more faster and reliable using the AI. Moreover, it can lower the burden on healthcare provides and can help treat sleep related issues at early stages. 
-URL to the dataset: https://registry.opendata.aws/bdsp-hsp/   
+**URL to the dataset:** https://registry.opendata.aws/bdsp-hsp/   
+
+
+### Q4: 4.	Introduce ONE selected “free-data-science-book” with its URL and author/institute information. Explain briefly why you are interested in this book.
+→ The book that caught my eye from the “free-data-science-book” is "Disruptive Possibilities: How Big Data Changes Everything" by Jeffrey Needham, from the O’Reilly Media institute. I got interested in this book because the word “Disruptive Possibilities” in itself sounded intriguing. The book also seems to be about exploring transformative power of big data, which relates to the Big Data Program. The book talks about big technologies like Hadoop that are revolutionizing traditional computing practices. Jeffrey Needham’s provides his perspective on evolution of big data, shares insights on how to adopt platform centric approaches, and offers a deep understanding of the possibilities and challenges that big data presents. 
+**URL to the book:** https://www.amazon.com/Disruptive-Possibilities-Data-Changes-Everything-ebook/dp/B00CLH387W 
