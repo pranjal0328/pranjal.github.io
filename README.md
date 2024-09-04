@@ -1,1 +1,5 @@
 # pranjal.github.io
+## Lab Questions and Responses
+### Q3: 3.	Introduce ONE selected “Dataset” from the [awesome-datascience] GitHub with its URL and describe its potential applications and values.
+→  One compelling datasets available on the AWS database from the list in “awesome-datascience” is the Human Sleep Project (HSP). This dataset is a collection of polysomnography (PSG) recordings, from approximately 15,000 patients at Massachusetts General Hospital, and growing. This dataset is essential to study sleep physiology and related disorders. This dataset can have many applications and values, one potential application being improving sleep disorder diagnosis, like apnea, insomnia, and more. Researchers can leverage this data to train deep learning models which can detect anomalies with great accuracy than traditional methods. Another application can be developing AI-driven sleep reports. These reports can be developed more faster and reliable using the AI. Moreover, it can lower the burden on healthcare provides and can help treat sleep related issues at early stages. 
+URL to the dataset: https://registry.opendata.aws/bdsp-hsp/   
